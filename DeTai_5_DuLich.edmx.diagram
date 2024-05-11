@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fa24765297f940b5b39a5b51bdb11729" Name="Diagram1">
+        <EntityTypeShape EntityType="DeTai_5_DuLichModel.BookRoom" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeTai_5_DuLichModel.Hotel" Width="1.5" PointX="3" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeTai_5_DuLichModel.Room" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeTai_5_DuLichModel.TypeRoom" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeTai_5_DuLichModel.User" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__BookRoom__Custom__503BEA1C" ManuallyRouted="false" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__BookRoom__HotelI__51300E55" ManuallyRouted="false" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__BookRoom__RoomID__4F47C5E3" ManuallyRouted="false" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__Hotels__OwnerID__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__Rooms__HotelID__06CD04F7" ManuallyRouted="false" />
+        <AssociationConnector Association="DeTai_5_DuLichModel.FK__Rooms__TypeRoom__05D8E0BE" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

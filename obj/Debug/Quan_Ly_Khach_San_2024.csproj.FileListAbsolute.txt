@@ -1,85 +1,1139 @@
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\bin\Debug\Quan_Ly_Khach_San_2024.exe
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\bin\Debug\Quan_Ly_Khach_San_2024.pdb
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\bin\Debug\Guna.UI2.dll
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.Form1.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.exe
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.pdb
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_AddRoom.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Quan_Ly_Khach_San_2024\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Dashboard.resources
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Dashboard.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Form1.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Test.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Search.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Azure.Core.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Azure.Identity.dll
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Faker.dll
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Profile.resources
-D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Service.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.dll
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Buffers.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Memory.Data.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Memory.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Permissions.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Text.Json.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.ValueTuple.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Azure.Core.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Azure.Identity.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.xml
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Buffers.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Memory.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Memory.Data.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Permissions.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Text.Json.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\System.ValueTuple.xml
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
 D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Statistical.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Faker.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.xml
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
-D:\Year3\HK2\Win\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Statistical.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Profile.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Search.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Service.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.BookRoom.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Dashboard.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Form1.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Test.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
-D:\Year3\HK2\Win\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Profile.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Search.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Service.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.Add_Infor.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.BookRoom.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.DetailsHotel.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\Project_HK2_2024\Programming_On_Windows\PROJECT\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Azure.Core.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Azure.Identity.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Faker.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Buffers.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Memory.Data.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Memory.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Permissions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Text.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.ValueTuple.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Azure.Core.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Azure.Identity.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Buffers.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Memory.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Memory.Data.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Permissions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Text.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\System.ValueTuple.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.SuggestedBindingRedirects.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Statistical.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Profile.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Search.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.Add_Infor.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.BookRoom.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.DetailsHotel.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.uC_Services.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.csproj.SuggestedBindingRedirects.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Azure.Core.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Azure.Identity.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Bunifu.Licensing.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Bunifu.UI.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\EntityFramework.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Faker.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Guna.UI2.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.Wpf.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Identity.Client.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Newtonsoft.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Buffers.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Memory.Data.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Memory.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Numerics.Vectors.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.AccessControl.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Permissions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Principal.Windows.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Text.Encodings.Web.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Text.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.ValueTuple.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Azure.Core.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Azure.Identity.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Bunifu.UI.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\EntityFramework.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.WinForms.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.Wpf.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\LiveCharts.Wpf.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Identity.Client.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\Newtonsoft.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Buffers.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Memory.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Memory.Data.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Numerics.Vectors.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.AccessControl.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Permissions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Security.Principal.Windows.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Text.Encodings.Web.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Text.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\System.ValueTuple.xml
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.DetailsHotel.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.AddForm.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.BookRooms.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Search.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_History.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_BookList.resources
+D:\NAM_3_HK2\4_LT_Windows\DoAnCuoiKy\Hotel_Management_Project - Entity\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Register.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Azure.Core.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Azure.Identity.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\EntityFramework.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Faker.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Buffers.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Memory.Data.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Memory.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Permissions.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Text.Json.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.ValueTuple.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Azure.Core.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Azure.Identity.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\EntityFramework.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Buffers.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Memory.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Memory.Data.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Permissions.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Text.Json.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\System.ValueTuple.xml
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_BookList.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_History.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Search.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.AddForm.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.BookRooms.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.DetailsHotel.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Register.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\Year3\HK2\Win\project\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Azure.Core.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Azure.Identity.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\EntityFramework.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Faker.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Buffers.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Memory.Data.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Memory.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Permissions.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Text.Json.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.ValueTuple.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Azure.Core.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Azure.Identity.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\EntityFramework.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Buffers.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Memory.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Memory.Data.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Permissions.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Text.Json.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\System.ValueTuple.xml
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.SuggestedBindingRedirects.cache
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_BookList.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_History.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Search.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.AddForm.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.BookRooms.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.DetailsHotel.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Register.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.CheckDate.resources
+D:\NAM_3_HK2\4_LT_Windows\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Rating.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe.config
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.exe
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Quan_Ly_Khach_San_2024.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Azure.Core.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Azure.Identity.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Bunifu.Licensing.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\EntityFramework.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Faker.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Guna.UI2.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Buffers.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Memory.Data.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Memory.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Permissions.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Text.Json.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.ValueTuple.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Azure.Core.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Azure.Identity.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\EntityFramework.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.WinForms.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\LiveCharts.Wpf.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll.config
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\Newtonsoft.Json.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Buffers.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Memory.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Memory.Data.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.AccessControl.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Permissions.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Text.Encodings.Web.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Text.Json.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\System.ValueTuple.xml
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.AssemblyReference.cache
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_BookList.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_History.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.All_User_Control.UC_Home.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Plow_Panel.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.All_User_Control.UC_Search.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.AddForm.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.BookRooms.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.CheckDate.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Dashboard.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.DetailsHotel.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Login.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Rating.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.GUI.DashBoard.Register.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.Properties.Resources.resources
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.GenerateResource.cache
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CoreCompileInputs.cache
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.csproj.CopyComplete
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.exe
+D:\Year3\HK2\Win\project_2\Hotel_Management_Project\obj\Debug\Quan_Ly_Khach_San_2024.pdb

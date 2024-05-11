@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DeTai_5_DuLichModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BookRoom">
+    <Key>
+      <PropertyRef Name="BookingID" />
+    </Key>
+    <Property Name="BookingID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoomID" Type="int" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="HotelID" Type="int" />
+    <Property Name="CheckInDate" Type="date" Nullable="false" />
+    <Property Name="CheckOutDate" Type="date" Nullable="false" />
+    <Property Name="TotalPrice" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hotels">
+    <Key>
+      <PropertyRef Name="HotelID" />
+    </Key>
+    <Property Name="HotelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HotelName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="District" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="TypeHotel" Type="nvarchar(max)" />
+    <Property Name="ImgHotel" Type="image" />
+    <Property Name="Rating" Type="nvarchar" MaxLength="100" />
+    <Property Name="OwnerID" Type="int" />
+  </EntityType>
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="RoomID" />
+    </Key>
+    <Property Name="RoomID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoomNumber" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TypeRoom" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" Nullable="false" />
+    <Property Name="ImgRoom" Type="image" />
+    <Property Name="statusRoom" Type="nvarchar" MaxLength="50" />
+    <Property Name="HotelID" Type="int" />
+  </EntityType>
+  <EntityType Name="TypeRoom">
+    <Key>
+      <PropertyRef Name="TypeRoomName" />
+    </Key>
+    <Property Name="TypeRoomName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Covenient" Type="nvarchar(max)" />
+    <Property Name="SizeRoom" Type="nvarchar" MaxLength="20" />
+    <Property Name="Voucher" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Passwords" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserType" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__BookRoom__Custom__41EDCAC5">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="BookRoom" Type="Self.BookRoom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="BookRoom">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BookRoom__HotelI__42E1EEFE">
+    <End Role="Hotels" Type="Self.Hotels" Multiplicity="0..1" />
+    <End Role="BookRoom" Type="Self.BookRoom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hotels">
+        <PropertyRef Name="HotelID" />
+      </Principal>
+      <Dependent Role="BookRoom">
+        <PropertyRef Name="HotelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BookRoom__RoomID__40F9A68C">
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+    <End Role="BookRoom" Type="Self.BookRoom" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="RoomID" />
+      </Principal>
+      <Dependent Role="BookRoom">
+        <PropertyRef Name="RoomID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Hotels__OwnerID__71D1E811">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Hotels" Type="Self.Hotels" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Hotels">
+        <PropertyRef Name="OwnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rooms__HotelID__06CD04F7">
+    <End Role="Hotels" Type="Self.Hotels" Multiplicity="0..1" />
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hotels">
+        <PropertyRef Name="HotelID" />
+      </Principal>
+      <Dependent Role="Rooms">
+        <PropertyRef Name="HotelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Rooms__TypeRoom__05D8E0BE">
+    <End Role="TypeRoom" Type="Self.TypeRoom" Multiplicity="0..1" />
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeRoom">
+        <PropertyRef Name="TypeRoomName" />
+      </Principal>
+      <Dependent Role="Rooms">
+        <PropertyRef Name="TypeRoom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DeTai_5_DuLichModelStoreContainer">
+    <EntitySet Name="BookRoom" EntityType="Self.BookRoom" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hotels" EntityType="Self.Hotels" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypeRoom" EntityType="Self.TypeRoom" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__BookRoom__Custom__41EDCAC5" Association="Self.FK__BookRoom__Custom__41EDCAC5">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="BookRoom" EntitySet="BookRoom" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BookRoom__HotelI__42E1EEFE" Association="Self.FK__BookRoom__HotelI__42E1EEFE">
+      <End Role="Hotels" EntitySet="Hotels" />
+      <End Role="BookRoom" EntitySet="BookRoom" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BookRoom__RoomID__40F9A68C" Association="Self.FK__BookRoom__RoomID__40F9A68C">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="BookRoom" EntitySet="BookRoom" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Hotels__OwnerID__71D1E811" Association="Self.FK__Hotels__OwnerID__71D1E811">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Hotels" EntitySet="Hotels" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rooms__HotelID__06CD04F7" Association="Self.FK__Rooms__HotelID__06CD04F7">
+      <End Role="Hotels" EntitySet="Hotels" />
+      <End Role="Rooms" EntitySet="Rooms" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Rooms__TypeRoom__05D8E0BE" Association="Self.FK__Rooms__TypeRoom__05D8E0BE">
+      <End Role="TypeRoom" EntitySet="TypeRoom" />
+      <End Role="Rooms" EntitySet="Rooms" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

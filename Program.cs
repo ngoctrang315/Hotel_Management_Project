@@ -17,6 +17,7 @@ namespace Quan_Ly_Khach_San_2024
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
+            //Application.Run(new Dashboard());
         }
     } 
 }
